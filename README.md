@@ -14,7 +14,7 @@ https://rathin-swipe.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/Grim-R3ap3r/swipe-assignment.git
 
 npm install
 
@@ -22,15 +22,19 @@ npm start / npm run build
 ```
 
 ### To-Do
-- [x] Finish parsing data into Preview Modal
+- [x] Integrate Redux into the application and create a Redux store.
 
-- [x] Currency Picker
+- [x] Create Redux actions, action types, and reducers to manage the invoice state (add, edit, view,
+      and delete invoices).
 
-- [x] Calculate Tax and Discounts
+- [x] Implement a component to display a list of invoices.
 
-- [ ] Store invoices in Firebase DB
+- [x] Make list of invoices as first screen and move the create to a new create invoice button
+
+- [x] In the invoice list, add buttons or options for view, edit, and delete operations.
+
 
 
 ### Meta
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+Rathin R 
