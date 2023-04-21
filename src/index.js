@@ -1,13 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import { render } from 'react-dom'
+import { Provider } from 'react-redux'
+import { legacy_createStore as createStore } from 'redux';
+import rootReducer from './Reducers'
+import App from './App'
+import './index.css'
 
-ReactDOM.render(
-  <React.StrictMode>
+const store = createStore(rootReducer)
+
+render(
+  <Provider store={store}>
     <App />
-  </React.StrictMode>,
+  </Provider>,
   document.getElementById('root')
-);
-reportWebVitals();
+)

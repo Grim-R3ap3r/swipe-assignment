@@ -76,7 +76,7 @@ class InvoiceModal extends React.Component {
                   </tr>
                 </thead>
                 <tbody>
-                  {this.props.items.map((item, i) => {
+                  {this.props.items?.map((item, i) => {
                     return (
                       <tr id={i} key={i}>
                         <td style={{width: '70px'}}>

@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
 body, html {
   font-size: 0.9rem;
-  background: #f2f3f7
+  background: #f2f3f7;
+  font-family: 'Poppins', sans-serif;
 }
 body, .form-control {
   font-size: 0.9rem
