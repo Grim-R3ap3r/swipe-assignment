@@ -1,3 +1,4 @@
+
 # Invoice Generator - React App
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -7,9 +8,9 @@ An Invoice creator project built with React. Add itemized items, configure quant
 https://rathin-swipe.netlify.app/
 
 ### Screenshots
-<img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+![1](https://user-images.githubusercontent.com/62543734/233536948-69acd77f-9c4f-44e6-8a7a-e19c57e839a3.jpg)
+![2](https://user-images.githubusercontent.com/62543734/233536950-a638190a-aeb8-431b-a309-33b78f3ca5e7.jpg)
+![3](https://user-images.githubusercontent.com/62543734/233536952-741aaf42-59fe-4956-9be2-cabe30e0de63.jpg)
 
 ### Installation
 
